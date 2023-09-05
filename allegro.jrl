@@ -1,0 +1,11 @@
+\t (00:00:13) allegro 17.4 S031 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Tue Aug 30 20:24:25 2022
+\t (00:00:13)         Host=EB2-111-XX User=aus-it Pid=17928 CPUs=4
+\t (00:00:13) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:13) 
+   (00:00:14) Loading axlcore.cxt 
+\t (00:00:14) Starting new design...
+\i (00:00:15) trapsize 116667
+\i (00:00:15) generaledit 
+\i (00:00:27) exit 
+\t (00:00:28)     Journal end - Tue Aug 30 20:24:39 2022
